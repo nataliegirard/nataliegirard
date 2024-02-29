@@ -27,7 +27,7 @@ In my free time, I enjoy playing video games, crafting, reading, and writing fic
 
 <h2 align="left">Languages and Tools:</h2>
 <table border=0>
-<tr VALIGN=TOP><td>
+<tr VALIGN=TOP border=0 style="border:0"><td border=0 style="border:0">
 <h3>Frontend Development</h3>
 <h4>Formatting and Layout</h4>
 <p align="left">
@@ -88,7 +88,7 @@ In my free time, I enjoy playing video games, crafting, reading, and writing fic
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="30" height="30"/></a>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/></a>
 </p>
-</td><td>
+</td><td border=0 style="border:0">
 <h3>Programming Languages & Tools</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/></a>
