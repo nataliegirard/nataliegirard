@@ -26,7 +26,7 @@ In my free time, I enjoy playing video games, crafting, reading, and writing fic
 
 
 <h2 align="left">Languages and Tools:</h2>
-<table>
+<table border=0>
 <tr VALIGN=TOP><td>
 <h3>Frontend Development</h3>
 <h4>Formatting and Layout</h4>
