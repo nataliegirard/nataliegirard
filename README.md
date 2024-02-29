@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Natalie Girard</h1>
 
-<a href="https://linkedin.com/in/natalie-girard-47727a39" target="_blank" rel="noreferrer" title="LinkedIn" style="margin-right:5px"><img src="https://skillicons.dev/icons?i=linkedin" alt="Web" width="40" height="40"/></a>
-<a href="mailto:girardnatalie@gmail.com?subject=Hello%Natalie,%20From%20Github" target="_blank" rel="noreferrer" title="email" style="margin-right:5px"><img src="https://skillicons.dev/icons?i=gmail" alt="Web" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/natalie-girard-47727a39" target="_blank" rel="noreferrer" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" alt="Web" width="40" height="40" style="margin-right:5px"/></a>
+<a href="mailto:girardnatalie@gmail.com?subject=Hello%Natalie,%20From%20Github" target="_blank" rel="noreferrer" title="email"><img src="https://skillicons.dev/icons?i=gmail" alt="Web" width="40" height="40" style="margin-right:5px"/></a>
 <a href="https://nataliegirard.ca" target="_blank" rel="noreferrer" title="nataliegirard.ca"><img src="assets/web-icon.png" alt="Web" width="40" height="40"/></a>
 
 <img align="left" src="assets/profile.jpg" alt="Natalie Girard" width="200" style="margin-right:15px;margin-bottom:12px;" />
